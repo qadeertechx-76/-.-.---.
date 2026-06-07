@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*𝚂𝙴𝙴𝙽 𝚈𝙾𝚄𝚁 𝚂𝚃𝙰𝚃𝚄𝚂 𝙱𝚈 𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*𝚂𝙴𝙴𝙽 𝚈𝙾𝚄𝚁 𝚂𝚃𝙰𝚃𝚄𝚂 𝙱𝚈 ₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆.*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
@@ -27,13 +27,13 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://eliteprotech-url.zone.id/1778606368589obfzir.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://eliteprotech-url.zone.id/1780825791553u2mng8.jpg",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃",
+BOT_NAME: process.env.BOT_NAME || "₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐊𝐃•˚₊‧⋆.",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃",
+STICKER_NAME: process.env.STICKER_NAME || "₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐊𝐃•˚₊‧⋆.",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react    
@@ -43,11 +43,11 @@ DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "923369423531",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "𓆩𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃𓆪",
+OWNER_NAME: process.env.OWNER_NAME || "₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐊𝐃•˚₊‧⋆.",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃 ❣️*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐊𝐃•˚₊‧⋆.",
 // add bot owner name    
-ALIVE_VID: process.env.ALIVE_VID || "𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃",
+ALIVE_VID: process.env.ALIVE_VID || "₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐊𝐃•˚₊‧⋆.",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "𝚉𝙸𝙽𝙳𝙰 𝙷𝚄𝙽 𝚈𝙰𝚁 🤖",
 // add alive msg here 
