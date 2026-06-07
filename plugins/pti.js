@@ -4,7 +4,7 @@ const FormData = require('form-data')
 
 cmd({
     pattern: "pti",
-    alias: ["aiimg", "aiimage"],
+    alias: ["aiimg", "aiimage", "ai"],
     desc: "Transform image with AI prompt",
     category: "ai",
     react: "🎨",
@@ -58,7 +58,7 @@ Example:
 
         const caption =
 `*╭┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉━┈᛭*
-*┇•* 🎨 *𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃 ᴀɪ ɪᴍᴀɢᴇ*
+*┇•* 🎨 *₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆. ᴀɪ ɪᴍᴀɢᴇ*
 *┇•* 📝 *ᴘʀᴏᴍᴘᴛ: ${prompt}*
 *┇•* ✅ *ɪᴍᴀɢᴇ ɢᴇɴᴇʀᴀᴛᴇᴅ!*
 *╰┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉━┈᛭*`
