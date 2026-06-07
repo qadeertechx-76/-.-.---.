@@ -3,7 +3,7 @@ const axios = require('axios')
 
 cmd({
     pattern: "fb3",
-    alias: ["fbdl3", "facebook3"],
+    alias: ["fbdl3", "facebook3", "fb"],
     desc: "Download Facebook video",
     category: "download",
     react: "📘",
@@ -47,7 +47,7 @@ Example:
             video: { url: video.url },
             mimetype: 'video/mp4',
             caption:
-`*_ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʀᴀʜᴍᴀɴ-ᴍᴅ_*`
+`*_ᴘᴏᴡᴇʀᴇᴅ ʙʏ ₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆._*`
         }, { quoted: mek })
 
     } catch (err) {
