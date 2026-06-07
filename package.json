@@ -1,7 +1,7 @@
 {
-  "name": "𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃",
+  "name": "₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆.",
   "version": "5.0.0",
-  "description": "A WhatsApp Bot Created By 𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃",
+  "description": "A WhatsApp Bot Created By Qadeer-TechX",
   "main": "index.js",
   "engines": {
     "node": "20.x"
@@ -9,8 +9,8 @@
   "scripts": {
     "start": "node index.js",
     "dev": "pm2 start index.js --deep-monitoring --attach --name 𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃",
-    "stop": "pm2 stop 𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃",
-    "restart": "pm2 restart 𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃"
+    "stop": "pm2 stop ₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆.",
+    "restart": "pm2 restart ₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆."
   },
   "dependencies": {
     "@whiskeysockets/baileys": "v7.0.0-rc.9",
