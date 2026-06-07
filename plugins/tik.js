@@ -5,7 +5,7 @@ if (!global.tt4Sessions) global.tt4Sessions = {}
 
 cmd({
     pattern: "tiktok2",
-    alias: ["tt2", "ttvideo"],
+    alias: ["tt2", "ttvideo", "tt", "tiktok"],
     desc: "Download TikTok video or audio",
     category: "download",
     react: "🎵",
@@ -70,7 +70,7 @@ cmd({
         await reply(`⏳ *Downloading ${label}...*`)
 
         const footerCaption =
-`*_ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʀᴀʜᴍᴀɴ-ᴍᴅ_*`
+`*_ᴘᴏᴡᴇʀᴇᴅ ʙʏ ₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆._*`
 
         if (choice === '1') {
             await conn.sendMessage(from, {
