@@ -3,7 +3,7 @@ const axios = require('axios')
 
 cmd({
     pattern: "play",
-    alias: ["mp3o", "song5"],
+    alias: ["mp3o", "song5", "audio", "p"],
     desc: "Search and download YouTube audio (MP3/M4A)",
     category: "download",
     react: "🎵",
@@ -39,7 +39,7 @@ Example:
 
         const caption =
 `*╭┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉━┈᛭*
-*┇•* 🎵 *ʀᴀʜᴍᴀɴ-ᴍᴅ ᴀᴜᴅɪᴏ ᴅʟ*
+*┇•* 🎵 *₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆. ᴀᴜᴅɪᴏ ᴅʟ*
 *┇•* ℹ️ *ᴛɪᴛʟᴇ: ${title}*
 *┇•* ⌛ *ᴅᴜʀᴀᴛɪᴏɴ: ${duration?.timestamp || 'N/A'}*
 *┇•* 👁️ *ᴠɪᴇᴡs: ${views?.toLocaleString() || 'N/A'}*
@@ -64,7 +64,7 @@ Example:
         await conn.sendMessage(from, {
             text:
 `*╭┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉━┈᛭*
-*┇•* *_ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʀᴀʜᴍᴀɴ-ᴍᴅ_*
+*┇•* *_ᴘᴏᴡᴇʀᴇᴅ ʙʏ ₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆._*
 *╰┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉━┈᛭*`
         }, { quoted: mek })
 
