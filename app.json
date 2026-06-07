@@ -1,8 +1,8 @@
 {
-  "name": "𓆩𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃𓆪",
+  "name": "₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆.,"
   "description": "Javascript WhatsApp bot made by Qadeer-TechX Official",
   "logo": "https://files.catbox.moe/ba1k10.jpg",
-  "keywords": ["𓆩𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃𓆪"],
+  "keywords": ["₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆."],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃~"
+      "value": "₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆.~"
     }, 
       
     "PREFIX": {
@@ -78,14 +78,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY 𓆩𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃𓆪 🖤*"
+      "value": "*SEEN YOUR STATUS BY ₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆.*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𓆩𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃𓆪"
+      "value": "₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆."
 }, 
 
     "OWNER_NUMBER": {
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "*𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃*"
+      "value": "*₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆.*"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://eliteprotech-url.zone.id/1778606368589obfzir.jpg"
+      "value": "https://eliteprotech-url.zone.id/1780825791553u2mng8.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐐𝐚𝐝ᥱ֟፝𝐞𝐫-𝐊𝐃*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ₊‧.°.⋆𝐐𝐀𝐃𝚵𝚵𝐑-𝐌𝐃•˚₊‧⋆.*"
     },
 
       "DELETE_LINKS": {
